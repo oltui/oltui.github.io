@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oltui.github.io/fFY/sitemap.fFY
